@@ -1,10 +1,10 @@
 Detection of Face Mask Using Computer Vision and Convolutional Neural Network (CNN).
 Since the beginning of the new Covid19 disease outbreak, public use of wearing masks has 
 become very important everywhere in the whole world, this project proposes a method to
-automate the face mask detection process for so the computer vision can detect if a person 
+automate the face mask detection process for hospitals so the computer vision can detect if a person 
 wear a face mask or not and emits red light if someone doesn't wear face mask.
 
-So We build five CNN models then we train them with 2100 images and test them with 900 images. We use the same preprocessing method for all models. After training and validation, we saved the model and tested it on the test images on another 100 test images and the result is shown in the table.
+We build five CNN models then we train them with 2100 images and test them with 900 images. We use the same preprocessing method for all models. After training and validation, we saved the model and tested it on the test images on another 100 test images and the result is shown in the table.
 
 After this comparison and choosing the best model, the result shown below. 
 
